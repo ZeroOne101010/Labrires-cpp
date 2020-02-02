@@ -1,0 +1,6 @@
+﻿  Building Custom Rule E:/Библиотеки C++/glfw-3.3/tests/CMakeLists.txt
+  iconify.c
+  getopt.c
+  glad_gl.c
+  Создание кода...
+  iconify.vcxproj -> E:\Библиотеки C++\glfw-3.3\build\tests\Debug\iconify.exe

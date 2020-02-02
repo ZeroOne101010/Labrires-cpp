@@ -1,0 +1,5 @@
+﻿  Building Custom Rule E:/Библиотеки C++/glfw-3.3/tests/CMakeLists.txt
+  vulkan.c
+  glad_vulkan.c
+  Создание кода...
+  vulkan.vcxproj -> E:\Библиотеки C++\glfw-3.3\build\tests\Debug\vulkan.exe

@@ -1,0 +1,6 @@
+﻿  Building Custom Rule E:/Библиотеки C++/glfw-3.3/tests/CMakeLists.txt
+  msaa.c
+  getopt.c
+  glad_gl.c
+  Создание кода...
+  msaa.vcxproj -> E:\Библиотеки C++\glfw-3.3\build\tests\Debug\msaa.exe

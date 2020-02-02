@@ -1,0 +1,6 @@
+﻿  Building Custom Rule E:/Библиотеки C++/glfw-3.3/tests/CMakeLists.txt
+  threads.c
+  tinycthread.c
+  glad_gl.c
+  Создание кода...
+  threads.vcxproj -> E:\Библиотеки C++\glfw-3.3\build\tests\Debug\threads.exe

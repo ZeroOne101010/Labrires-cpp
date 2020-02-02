@@ -1,0 +1,5 @@
+﻿  Building Custom Rule E:/Библиотеки C++/glfw-3.3/examples/CMakeLists.txt
+  gears.c
+  glad_gl.c
+  Создание кода...
+  gears.vcxproj -> E:\Библиотеки C++\glfw-3.3\build\examples\Debug\gears.exe

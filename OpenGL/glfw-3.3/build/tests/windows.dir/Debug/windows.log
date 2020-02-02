@@ -1,0 +1,6 @@
+﻿  Building Custom Rule E:/Библиотеки C++/glfw-3.3/tests/CMakeLists.txt
+  windows.c
+  getopt.c
+  glad_gl.c
+  Создание кода...
+  windows.vcxproj -> E:\Библиотеки C++\glfw-3.3\build\tests\Debug\windows.exe
